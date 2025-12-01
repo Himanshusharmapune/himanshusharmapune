@@ -1,5 +1,3 @@
-<img align="center" src="https://media.giphy.com/media/M9GB53JQn1kOKu5xl6/giphy.gif" width="100%">
-
 <h1--- align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">🚀 Full-Stack MERN Developer | Building Scalable Web Solutions | JavaScript Enthusiast</h3>
 

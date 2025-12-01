@@ -15,7 +15,7 @@
 const himanshu = {
   name: "Himanshu Sharma",
   title: "Full-Stack MERN Developer",
-  location: "India (Seeking Remote - Pune/Navi Mumbai/Mumbai",
+  location: "India (Seeking Remote, Pune/Navi Mumbai/Mumbai",
   status: "Immediate Joiner ⚡",
   education: "Recent Graduate (DOB: 20 March 2002)",
   background: "Associate Technical Support @ TechM",
@@ -25,13 +25,13 @@ const himanshu = {
 };
 ```
 
-- 🎓 **Education**: Recent College Graduate (March 2002)  
+- 🎓 **Education**: MGM JNEC 
 - 💼 **Experience**: Associate Technical Support @ TechM | 20-Day JavaScript Intensive Lab
-- 🌍 **Location**: India (Remote-First, Open to Pune/Navi Mumbai/Odisha)
+- 🌍 **Location**: India (Remote-First, Open to Pune/Navi Mumbai/Mumbai)
 - ⚡ **Status**: Immediate Joiner - Actively seeking MERN Stack opportunities
 - 🎯 **Goal**: Secure a MERN Stack Developer role at an innovative tech company
 - 💬 **Ask me about**: MERN Stack, JavaScript, React, Node.js, Database Design, REST APIs
-- 🎮 **Fun fact**: Gamer (Valorant), Movie enthusiast, Night coder, Good at conversations
+- 🎮 **Fun fact**: Gamer (Valorant), Movie enthusiast, Night coder
 
 ---
 ## 🏠 Tech Stack
@@ -63,35 +63,6 @@ const himanshu = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
 </p>
-## 💫 Featured Projects
-
-### 1. **E-Commerce Platform** | MERN Stack ⭐
-- 🛍️ Full-featured shopping cart with real-time updates & payment gateway integration
-- 🛠️ Admin dashboard for inventory management  
-- 🔍 Advanced product filtering, search, and recommendations
-- 🔐 JWT authentication with secure password hashing
-- 💳 Stripe/PayPal payment integration
-- 📱 Fully responsive design (Mobile-first)
-
-### 2. **Real-Time Chat Application** | Socket.IO
-- 💬 Instant messaging with typing indicators
-- 👥 User authentication & room management
-- 📤 Message history with offline delivery
-- 🔍 Search through conversations
-- 🎉 Emoji and file sharing support
-
-### 3. **Task Management Dashboard** | React + Node
-- ✅ Create, update, delete tasks with priorities  
-- 📅 Kanban board with drag-and-drop functionality
-- 💵 Real-time sync across multiple devices
-- 📊 Analytics dashboard with statistics
-- 🌟 Category-based organization & filters
-
-### 4. **Personal Portfolio Website** | MERN
-- 🎨 Responsive design with smooth animations
-- 📄 Dynamic project showcase
-- 📧 Contact form with email notifications
-- 🤛 GitHub integration for live stats
 
 <p align="center">
   <a href="https://github.com/Himanshusharmapune?tab=repositories" target="_blank">
@@ -140,25 +111,10 @@ const himanshu = {
 
 - 💡 Advanced Data Structures & Algorithms (LeetCode)
 - 🤐 Web Performance Optimization
-- 🔐 Security Best Practices (OWASP)
-- 🏗️ System Design & Microservices
-- 🐍 Python for backend development
+- 🐍 Javascipt for backend development
 
 ---
 
-## 💰 Professional Info
-
-| Aspect | Details |
-|--------|----------|
-| **Status** | Immediate Joiner - Actively Seeking |
-| **Target Role** | MERN Stack Developer / Full-Stack Developer |
-| **Salary Expectation** | ₹4,50,000 - ₹5,50,000 |
-| **Work Mode** | Remote, Hybrid, or On-site |
-| **Experience** | 3.65L+ in Tech Sector |
-| **Email** | omdeore321@gmail.com |
-| **Phone** | +91 7020303557 |
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
@@ -166,5 +122,4 @@ const himanshu = {
 
 <div align="center">
   <h3>⭐ If you find my work valuable, consider starring my repositories!</h3>
-  <img src="https://media.giphy.com/media/dxn6sRu54fzGw/giphy.gif" width="200" alt="Thanks"/>
 </div>

@@ -1,6 +1,6 @@
 <img align="center" src="https://media.giphy.com/media/M9GB53JQn1kOKu5xl6/giphy.gif" width="100%">
 
-<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
+<h1--- align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">🚀 Full-Stack MERN Developer | Building Scalable Web Solutions | JavaScript Enthusiast</h3>
 
 <p align="center">
@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-blue?style=flat-square" alt="Location" />
 </p>
 
-<div align="center">
-  <img alt="Coding" width="100%" height="300" src="https://media.giphy.com/media/https://via.placeholder.com/1200x300/0891b2/ffffff?text=Full+Stack+MERN+Developer/giphy.gif">
-</div>
 ---
 
 ## 💫 About Me

@@ -9,8 +9,9 @@
   <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-blue?style=flat-square" alt="Location" />
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<div align="center">
+  <img alt="Coding" width="100%" height="300" src="https://media.giphy.com/media/QTfxw567A3crNaaQEf/giphy.gif">
+</div>
 ---
 
 ## 💫 About Me

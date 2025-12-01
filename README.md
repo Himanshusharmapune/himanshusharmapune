@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img alt="Coding" width="100%" height="300" src="https://media.giphy.com/media/cD8mD6VzJ9crNd6Wf/giphy.gif">
+  <img alt="Coding" width="100%" height="300" src="https://media.giphy.com/media/https://via.placeholder.com/1200x300/0891b2/ffffff?text=Full+Stack+MERN+Developer/giphy.gif">
 </div>
 ---
 

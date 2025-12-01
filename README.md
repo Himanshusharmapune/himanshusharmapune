@@ -15,7 +15,7 @@
 const himanshu = {
   name: "Himanshu Sharma",
   title: "Full-Stack MERN Developer",
-  location: "India (Seeking Remote - Pune/Navi Mumbai/Odisha)",
+  location: "India (Seeking Remote - Pune/Navi Mumbai/Mumbai",
   status: "Immediate Joiner ⚡",
   education: "Recent Graduate (DOB: 20 March 2002)",
   background: "Associate Technical Support @ TechM",

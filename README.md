@@ -73,8 +73,6 @@ const himanshu = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Himanshusharmapune&show_icons=true&locale=en&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshusharmapune&theme=nord&hide_border=true" alt="Contribution Streak" />
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshusharmapune&theme=nord&hide_border=true&area=true" alt="Activity Graph" />
 
 ---

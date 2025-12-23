@@ -14,23 +14,19 @@
 ```javascript
 const himanshu = {
   name: "Himanshu Sharma",
-  title: "Full-Stack MERN Developer",
   location: "India (Seeking Remote, Pune/Navi Mumbai/Mumbai",
   status: "Immediate Joiner ⚡",
-  education: "Recent Graduate (DOB: 20 March 2002)",
+  education: "Undergraduate",
   background: "Associate Technical Support @ TechM",
-  focus: "Building Production-Ready Full-Stack Applications",
   passion: "Web Development & Problem Solving",
-  motto: "Code with purpose, learn with passion!"
 };
 ```
 
 - 🎓 **Education**: MGM JNEC 
-- 💼 **Experience**: Associate Technical Support @ TechM | 20-Day JavaScript Intensive Lab
+- 💼 **Experience**: Associate Technical Support @ TechM 
 - 🌍 **Location**: India (Remote-First, Open to Pune/Navi Mumbai/Mumbai)
-- ⚡ **Status**: Immediate Joiner - Actively seeking MERN Stack opportunities
-- 🎯 **Goal**: Secure a MERN Stack Developer role at an innovative tech company
-- 💬 **Ask me about**: MERN Stack, JavaScript, React, Node.js, Database Design, REST APIs
+- ⚡ **Status**: Immediate Joiner - Actively seeking opportunities
+- 💬 **Ask me about**: JavaScript
 - 🎮 **Fun fact**: Gamer (Valorant), Movie enthusiast, Night coder
 
 ---

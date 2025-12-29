@@ -68,10 +68,7 @@ const himanshu = {
 
 ## 📊 GitHub Statistics
 
-<div>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshusharmapune&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Himanshusharmapune&show_icons=true&locale=en&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshusharmapune&theme=nord&hide_border=true&area=true" alt="Activity Graph" />
 
